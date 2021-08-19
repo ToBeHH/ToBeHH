@@ -5,12 +5,13 @@
 🔨 Team Lead Engineering @XING_de
 🎓 Master's in Computer Science @UniKa
 👨‍👩‍👧‍👦 Father of 2, husband
-🔊 Conference speaker - check out my [talk about 4 key metrics](https://www.youtube.com/watch?v=JHY3EstvTkM).
+🔊 Conference speaker.
 ```
 
 <details>
   <summary>Some more interesting facts about me!</summary>
   <br>
+  - My last talk was at the Ruby Unconf 2019 in Hamburg (Corona, you know...) <a href="https://www.youtube.com/watch?v=JHY3EstvTkM" target="_new">about 4 key metrics</a>.
 
   - I love photography, check them out on **[My Instagram](https://www.instagram.com/schulzhess/)**.
 
