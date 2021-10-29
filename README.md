@@ -21,6 +21,8 @@
   - Although being teamlead, I still love to code, but doing this as a private person. Currently developing an app in Flutter ⭐️ - link will come soon.
 
   - Actively doing social activities, e.g. [building websites](https://www.triple-x.info) or in a club.
+  
+  - If you want to do me a favor, [buy me something on Amazon 🤩](https://www.amazon.de/hz/wishlist/ls/2XB7TSTPZ3OX5).
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToBeHH&hide=css,scss) -->
 ![My github stats](https://github-readme-stats.vercel.app/api?username=ToBeHH&show_icons=true)
