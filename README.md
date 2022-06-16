@@ -15,12 +15,14 @@
   <summary>Some more interesting facts about me!</summary>
   <br>
   - My last talk was at the Ruby Unconf 2019 in Hamburg (Corona, you know...) <a href="https://www.youtube.com/watch?v=JHY3EstvTkM" target="_new">about 4 key metrics</a>.
+  
+  - [Here is a list of talks and tutorials, I find interesting for software developers](https://youtube.com/playlist?list=PLshvkEegP_RKbVyP-GXbph_vAiIZqDtWK)
 
   - I love photography, check them out on **[My Instagram](https://www.instagram.com/schulzhess/)**.
 
-  - Although being teamlead, I still love to code, but doing this as a private person. Currently developing an app in Flutter ⭐️ - link will come soon.
+  - Although being teamlead, I still love to code, but doing this as a private person. [Currently developing an app in Flutter ⭐️](https://www.triple-x.info/en/app-2/).
 
-  - Actively doing social activities, e.g. [building websites](https://www.triple-x.info) or in a club.
+  - Actively doing social activities, e.g. [building websites](https://www.triple-x.info) or at [Rotary](https://www.maritime-motion.de/).
   
   - If you want to do me a favor, [buy me something on Amazon 🤩](https://www.amazon.de/hz/wishlist/ls/2XB7TSTPZ3OX5).
 
