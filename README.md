@@ -5,7 +5,7 @@
 
 ## I am...
 ```
-🔨 Team Lead Engineering @XING_de
+🔨 Engineering Manager @IU_org
 🎓 Master's in Computer Science @UniKa
 👨‍👩‍👧‍👦 Father of 2, husband
 🔊 Conference speaker.
