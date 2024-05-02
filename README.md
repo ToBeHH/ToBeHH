@@ -5,7 +5,7 @@
 
 ## I am...
 ```
-🔨 Engineering Manager @IU_org
+🔨 Engineering Manager and Solution Architect, open for work
 🎓 Master's in Computer Science @UniKa
 👨‍👩‍👧‍👦 Father of 2, husband
 🔊 Conference speaker.
