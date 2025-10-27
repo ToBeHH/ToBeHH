@@ -5,7 +5,7 @@
 
 ## I am...
 ```
-🔨 Engineering Manager and Solution Architect, open for work
+🔨 Expert Generalist, experienced Senior IT Cloud Architect and trainer with focus on AWS architecture and software development, DevOps and security. Extensive leadership experience and technical skills.
 🎓 Master's in Computer Science @UniKa
 👨‍👩‍👧‍👦 Father of 2, husband
 🔊 Conference speaker.
